@@ -2,7 +2,7 @@
   "name": "earthquake-intelligence",
   "version": "1.0.0",
   "description": "Professional-grade real-time earthquake monitoring and seismic intelligence platform.",
-  "author": "Earthquake Labs",
+  "author": "@omk21-byt",
   "private": false,
   "scripts": {
     "dev": "next dev",
