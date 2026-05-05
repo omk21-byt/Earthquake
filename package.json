@@ -1,8 +1,8 @@
 {
-  "name": "terrapulse-seismic-intelligence",
+  "name": "earthquake-intelligence",
   "version": "1.0.0",
-  "description": "Professional-grade real-time seismic monitoring and earthquake intelligence platform.",
-  "author": "TerraPulse Labs",
+  "description": "Professional-grade real-time earthquake monitoring and seismic intelligence platform.",
+  "author": "Earthquake Labs",
   "private": false,
   "scripts": {
     "dev": "next dev",
