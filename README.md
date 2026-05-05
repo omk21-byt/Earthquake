@@ -1,8 +1,8 @@
-# TerraPulse - Advanced Seismic Intelligence Platform
+# Earthquake - Global Seismic Intelligence Platform
 
-TerraPulse is a high-performance, real-time seismic monitoring system built with Next.js, Leaflet, and Tailwind CSS. It provides researchers, emergency responders, and seismic enthusiasts with a powerful interface to track global earthquake activity with precision and clarity.
+Earthquake is a high-performance, real-time seismic monitoring system built with Next.js, Leaflet, and Tailwind CSS. It provides researchers, emergency responders, and seismic enthusiasts with a powerful interface to track global earthquake activity with precision and clarity.
 
-![TerraPulse Interface](https://raw.githubusercontent.com/lucide-react/lucide/main/icons/activity.svg)
+![Earthquake Interface](https://raw.githubusercontent.com/lucide-react/lucide/main/icons/activity.svg)
 
 ## 🚀 Key Features
 
@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Built with ❤️ by **TerraPulse Labs**.
+Built with ❤️ by **Earthquake Labs**.
