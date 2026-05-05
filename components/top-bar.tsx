@@ -63,13 +63,13 @@ export function TopBar({
             className="text-sm font-bold tracking-tight"
             style={{ color: "var(--text-primary)" }}
           >
-            TERRAPULSE
+            EARTHQUAKE
           </span>
           <span
             className="text-[10px] font-medium tracking-widest hidden sm:inline opacity-70"
             style={{ color: "var(--text-ghost)" }}
           >
-            ADVANCED SEISMIC INTELLIGENCE
+            GLOBAL SEISMIC INTELLIGENCE
           </span>
         </div>
       </div>
