@@ -26,7 +26,7 @@ function timeAgo(timestamp: string): string {
   return `${diffDays}d ago`;
 }
 
-export function EventFeed({ events, label = "EVENT FEED" }: EventFeedProps) {
+export function EventFeed({ events, label = "SEISMIC PULSE FEED" }: EventFeedProps) {
   return (
     <div className="flex flex-col h-full">
       <div
