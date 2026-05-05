@@ -16,7 +16,7 @@ const ibmPlexMono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TerraPulse - Advanced Seismic Intelligence",
+  title: "Earthquake - Global Seismic Intelligence",
   description:
     "Next-generation earthquake monitoring and seismic data analysis platform. Empowering researchers and enthusiasts with real-time global seismic intelligence.",
 };
